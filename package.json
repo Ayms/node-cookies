@@ -1,0 +1,13 @@
+{
+  "name": "node-cookies",
+  "description": "Simple cookies class node node.js, can be used with http manager or jsdom for example",
+  "version": "0.1.0",
+  "repository": {
+    "url": ""
+  },
+  "author": "Cédric Martin <cedric@infonais.fr> (http://www.infonais.fr)",
+  "main": "cookiejar.js",
+  "engines": {
+    "node": "*"
+  }
+}

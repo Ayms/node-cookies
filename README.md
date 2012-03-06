@@ -9,7 +9,7 @@ Simple implementation of cookies
 
 or
 
-    git clone http://github.com/Nais/node-cookies.git
+    git clone http://github.com/Ayms/node-cookies.git
     cd node-cookies
     npm link .
 
